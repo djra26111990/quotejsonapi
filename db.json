@@ -53,16 +53,5 @@
     "conversation": "Esta es una respuesta de prueba",
     "user_id": 130,
     "status_msj": "send"
-  },
-  {
-    "id": 6,
-    "submission_id": "602df47a58bea50c94243d21",
-    "asunto": "activacion",
-    "content": "Este es un mensaje de prueba",
-    "conversation_id": 123461,
-    "fecha": "2021-03-23T04:35:20.380Z",
-    "conversation": "Esta es una respuesta de prueba",
-    "user_id": 131,
-    "status_msj": "send"
   }
 ]
